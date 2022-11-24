@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "build web hook trigger!" );
+        System.out.println( "git web hook trigger!" );
     }
 }
